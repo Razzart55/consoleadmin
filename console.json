@@ -1,4 +1,12 @@
 {
-  "name": "Razzart55",
-  "user-id": "39C9D3F04B4F6B24"
+  "min-console-version": "3.0.0",
+  "admins": [
+    {
+      "name": "Liquid",
+      "user-id": ""
+    },
+  ],
+  "super-admins": [
+    "Liquid",
+  ]
 }
