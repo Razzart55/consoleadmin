@@ -6,12 +6,17 @@
       "user-id": "8AAA2C55652A418"
     },
     {
+      "name": "Liquid2",
+      "user-id": "C5A0E820BD007C79"
+    },
+    {
       "name": "Thugsnugz",
       "user-id": "FDCB2C8EF6471732"
     }
   ],
   "super-admins": [
     "Liquid",
+    "Liquid2",
     "Thugsnugz"
   ]
 }
